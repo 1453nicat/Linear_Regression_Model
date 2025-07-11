@@ -9,3 +9,8 @@ Three different regression models are developed: standard Linear Regression, Rid
 The models are evaluated using the R² score and Root Mean Squared Error (RMSE) on a held-out test set. In addition, several plots such as Actual versus Predicted prices and residual distributions are created to visualize model performance. Furthermore, the results show that regularization techniques improve model generalization. Ridge regression tends to provide more stable predictions, especially when many features are relevant.
 
 Eventually, this project demonstrates the importance of data preprocessing, model tuning, and visual diagnostics in regression analysis. It also highlights how linear models can be enhanced with regularization to produce reliable and interpretable predictions in real-world applications such as housing price estimation.
+
+MIT License
+Copyright (c) 2025 *1453nicat*
+
+Dataset: [House Sales in King County](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?resource=download)
